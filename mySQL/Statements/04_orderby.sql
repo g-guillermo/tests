@@ -1,0 +1,5 @@
+SELECT * FROM users WHERE age > 30 ORDER BY age;
+
+SELECT * FROM users WHERE age > 30 ORDER BY age ASC;
+
+SELECT * FROM users WHERE age > 30 ORDER BY age DESC;

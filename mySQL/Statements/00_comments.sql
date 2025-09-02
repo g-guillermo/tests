@@ -1,0 +1,6 @@
+-- Comentario singleline
+
+/*
+Comentario
+multiline
+*/

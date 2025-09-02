@@ -1,0 +1,1 @@
+INSERT INTO users (name, surname, age, init_date, email) VALUES ("Esteban", "Gutierrez", 22, "2020-10-24", "esteban.gutierrez@example.com")
